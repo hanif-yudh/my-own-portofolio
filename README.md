@@ -1,9 +1,9 @@
-# Portofolio Andi Pratama
+# Portofolio muhammad hanif yudhias
 Website portofolio pribadi yang saya buat di Kelas Industri UBIG
 (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
-![D:\industri\index.html)
+D:\industri\index.html
 ## Fitur
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan
 jadwal belajar
@@ -16,4 +16,4 @@ jadwal belajar
 - Git dan GitHub
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Andi Pratama, SMK Mitra
+- Dibuat oleh: muhammad hanif yudhias, SMKN 2 Singosari
